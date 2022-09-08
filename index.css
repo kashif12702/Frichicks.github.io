@@ -116,7 +116,7 @@
     }
 
     #navitems{
-        background-color: black;
+        background-color: rgb(165, 19, 32);
         position: fixed;
         right: -250px;
         top: 0;
